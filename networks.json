@@ -1,5 +1,5 @@
 {
-    "sapphire": {
+    "sapphire_testnet": {
         "ERC20": {
             "address": "0xd008f17CF6f2078310da62998476B80ace9c3Ba1",
             "startBlock": 4472787

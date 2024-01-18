@@ -4,6 +4,7 @@
     "scripts": {
         "codegen": "graph codegen",
         "build": "graph build",
+        "create": "graph create --node http://54.163.88.211:8020/ erc20-sapphire-subgraph",
         "deploy": "graph deploy --node http://54.163.88.211:8020/ erc20-sapphire-subgraph",
         "create-local": "graph create --node http://localhost:8020/ erc20-sapphire-subgraph",
         "remove-local": "graph remove --node http://localhost:8020/ erc20-sapphire-subgraph",
